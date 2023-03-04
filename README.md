@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p><img align="right" src="[https://i.gifer.com/9kGQ.gif](https://i.gifer.com/7SvE.gif)" width="450px" height="310px" alt="gif blue code" /></p>
-
+![ Alt text](7SvE.gif) / ! [](7SvE.gif)
 <p align="left"> 👦 I’m Piotr, 30 years old, living in Poland.</p>
 
 <p align="left">🖥️ I’m a Full Stack Developer.</p> 
