@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="right"> ![grab-landing-page](https://github.com/Ainsik/Ainsik/blob/main/7SvE.gif) </p>
-
+![grab-landing-page](https://github.com/Ainsik/Ainsik/blob/main/7SvE.gif)
 <p align="left"> 👦 I’m Piotr, 30 years old, living in Poland.</p>
 
 <p align="left">🖥️ I’m a Full Stack Developer.</p> 
