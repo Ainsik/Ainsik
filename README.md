@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<p><img align="right" src="https://giphy.com/embed/7FrOU9tPbgAZtxV5mb" width="450px" height="310px" alt="gif blue code" /></p>
-<iframe src="https://giphy.com/embed/7FrOU9tPbgAZtxV5mb" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-security-binary-7FrOU9tPbgAZtxV5mb">via GIPHY</a></p>
+<p><img align="right" src="https://giphy.com/embed/7FrOU9tPbgAZtxV5mb](https://i.gifer.com/9kGQ.gif" width="450px" height="310px" alt="gif blue code" /></p>
 
 <p align="left"> 👦 I’m Piotr, 30 years old, living in Poland.</p>
 
