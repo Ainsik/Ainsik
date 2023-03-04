@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p><img align="right" src="![ Alt text](7SvE.gif) / ! [](7SvE.gif)" width="450px" height="310px" alt="gif blue code" /></p>
+![grab-landing-page](https://github.com/Ainsik/Ainsik/blob/main/7SvE.gif)
 
 <p align="left"> 👦 I’m Piotr, 30 years old, living in Poland.</p>
 
