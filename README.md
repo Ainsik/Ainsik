@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-<align="right" width="100px" height="100px" ![grab-landing-page](https://github.com/Ainsik/Ainsik/blob/main/7SvE.gif) />
-
 <p align="left"> 👦 I’m Piotr, 30 years old, living in Poland.</p>
 
 <p align="left">🖥️ I’m a Full Stack Developer.</p> 
 
 <p align="left">My hobbies: Cycling 🚴‍♂️, gym 💪 and coding, of course!🤓</p>
 
+![grab-landing-page](https://github.com/Ainsik/Ainsik/blob/main/7SvE.gif)
 
 ## My Skills 🔍
 
