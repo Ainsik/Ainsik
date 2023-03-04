@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p><img align="right" src="https://giphy.com/embed/7FrOU9tPbgAZtxV5mb](https://i.gifer.com/9kGQ.gif" width="450px" height="310px" alt="gif blue code" /></p>
+<p><img align="right" src="https://i.gifer.com/9kGQ.gif" width="450px" height="310px" alt="gif blue code" /></p>
 
 <p align="left"> 👦 I’m Piotr, 30 years old, living in Poland.</p>
 
