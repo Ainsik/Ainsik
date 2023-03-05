@@ -43,3 +43,5 @@
 ![GitHub](http://img.shields.io/badge/-GitHub-lime?style=flat-square&logo=github&logoColor=black)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainsik&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainsik&layout=compact&theme=tokyonight)](https://github.com/Ainsik/github-readme-stats)
