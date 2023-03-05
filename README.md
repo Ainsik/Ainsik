@@ -6,8 +6,6 @@
 
 <p align="left">My hobbies: Cycling 🚴‍♂️, gym 💪 and coding, of course!🤓</p>
 
-![grab-landing-page](https://github.com/Ainsik/Ainsik/blob/main/7SvE.gif)
-
 ## My Skills 🔍
 
 ### IDEs
