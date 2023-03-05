@@ -43,3 +43,5 @@
 ![Git](http://img.shields.io/badge/-Git-moccasin?style=flat-square&logo=git&logoColor=black)
 ![GitFlow](http://img.shields.io/badge/-GitFlow-lightskyblue?style=flat-square&logo=git&logoColor=black)
 ![GitHub](http://img.shields.io/badge/-GitHub-lime?style=flat-square&logo=github&logoColor=black)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainsik&show_icons=true&theme=tokyonight)
