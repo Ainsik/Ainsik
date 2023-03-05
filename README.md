@@ -44,4 +44,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainsik&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainsik&layout=compact&theme=tokyonight)](https://github.com/Ainsik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainsik&layout=compact&theme=tokyonight&range=last_6_months)](https://github.com/Ainsik/github-readme-stats)
