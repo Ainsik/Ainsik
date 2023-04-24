@@ -57,6 +57,6 @@ $${\color{lightblue}My \space hobbies: \space Cycling, \space gym \space and \sp
 # <p align="center">Statistics</p>
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainsik&layout=&theme=)](https://github.com/Ainsik/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainsik&show_icons=true&theme=) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainsik&layout=compact&theme=tokyonight)](https://github.com/Ainsik/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ainsik&show_icons=true&theme=tokyonight)
 </div>
