@@ -12,9 +12,10 @@ $${\color{lightblue}My \space hobbies: \space Cycling, \space gym \space and \sp
 <div align="center">
 
 ### ```IDEs```
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354237/pycharm.svg" alt="PyCharm" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="Visual Studio" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" alt="Vistual Studio Code" width="50" height="50"/> </a>
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ainsik/Ainsik/assets/102509794/9beda8ba-ac5c-4225-9aff-c4fda0fec8c9" alt="PyCharm" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ainsik/Ainsik/assets/102509794/53074b03-c9c7-4bc0-8d4b-8999867ad60e" alt="Visual Studio" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ainsik/Ainsik/assets/102509794/721a48a4-16dd-4848-a6c2-6699af89b7e6" alt="Vistual Studio Code" width="50" height="50"/> </a>
   
 ### ```Operating Systems```
 <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" alt="windows" width="50" height="50"/> </a>
