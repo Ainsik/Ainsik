@@ -54,10 +54,3 @@ $${\color{lightblue}My \space hobbies: \space Cycling, \space gym \space and \sp
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
 </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>  
 </div>
-
-# <p align="center">Statistics</p>
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats-umber-delta.vercel.app/api/top-langs/?username=Ainsik&layout=compact&theme=tokyonight)](https://github.com/Ainsik/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats-umber-delta.vercel.app/api?username=Ainsik&show_icons=true&theme=tokyonight)
-</div>
