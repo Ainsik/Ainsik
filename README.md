@@ -45,5 +45,4 @@ $${\color{lightblue}My \space hobbies: \space Cycling, \space gym \space and \sp
 ### ```Tools```
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Ainsik/Ainsik/assets/102509794/adf5cd73-6056-471e-847c-097a04b4abe9" alt="postman" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ainsik/Ainsik/assets/102509794/32138517-80f6-434d-acc8-f3f022ac8a3b" alt="figma" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Ainsik/Ainsik/assets/102509794/7b56f87b-f920-4d9f-96b9-20d74b7f07e5" alt="docker" width="50" height="50"/> </a>  
 </div>
